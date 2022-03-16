@@ -57,6 +57,12 @@ export const i18nMap = {
     skip_recap: "Samenvatting overslaan",
     skip_ads: "Overslaan",
   },
+  nl_BE: {
+    skip_intro: "Intro overslaan",
+    next_epi: "Volgende",
+    skip_recap: "Samenvatting overslaan",
+    skip_ads: "Overslaan",
+  },
   nb_NO: {
     skip_intro: "Hopp over intro",
     next_epi: "Neste",
